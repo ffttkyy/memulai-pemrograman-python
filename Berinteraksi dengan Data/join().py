@@ -5,7 +5,7 @@ Output:
 Minuman Indonesia !
 """
 
-print('30'.join(['Nov','2024'])
+print('30'.join(['Nov','2024']))
 
 """
 Output:
